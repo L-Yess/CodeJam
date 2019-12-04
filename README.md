@@ -1,6 +1,7 @@
 # CodeJam
 my participation in Google's  Codejam competition
 
+![alt text](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/codejamlogo_XsEJBSX.max-1000x1000.png)
 
 Each problem folder contains at least two files:
   *program.py*     : contains the main code to solve the problem
